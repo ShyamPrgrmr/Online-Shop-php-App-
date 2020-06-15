@@ -1,0 +1,84 @@
+.main{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-top: 3%;
+    /*background-image: linear-gradient(to bottom right, skyblue, yellow);*/
+    background:transparent; 
+  
+   font-style: bold;
+   font:bolder;
+}
+
+.m{
+	font-size: 40px;
+	font-style: bold;
+	font:bolder;
+	font-family: sans-serif;
+}
+
+.in{
+	margin-top: 19px; 
+}
+
+.choose{
+	margin-top: 40%;
+
+	margin-left: 20%;
+	height: 60px;
+	width: 100px;
+
+}
+
+.photo{
+	box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+	src:"addphoto.png";
+    margin: 20px;
+
+}
+
+.filechooser{
+	margin-top:4px;
+	margin-bottom: 4px; 
+}
+
+.btadd{
+	margin:6px;
+}
+
+.phs{
+	height: 60px;
+	width: 60px;
+}
+
+.inner
+{
+	margin-top: 1%;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);	
+}
+
+.plabel
+{
+	align-self: right;
+	margin-bottom: 10px;
+}
+
+.blocks{
+	margin-top: 10px;
+}
+
+
+.input
+{
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-bottom: solid;
+    border-width: 0.5px;
+    border-radius: 0px;
+    background:transparent; 
+    font-color:black;
+    font:black;
+}
